@@ -1,0 +1,21 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.tstemplate",
+		"tns-android": {
+			"version": "1.5.1"
+		}
+	},
+	"dependencies": {
+		"nativescript-unit-test-runner": "^0.2.8",
+		"tns-core-modules": "1.5.1"
+	},
+	"devDependencies": {
+		"gulp-copy": "0.0.2",
+		"karma": "^0.13.19",
+		"karma-jasmine": "^0.3.6",
+		"karma-nativescript-launcher": "^0.3.1",
+		"sigh": "github:unlight/sigh",
+		"sigh-ts": "0.0.1",
+		"typescript": "^1.7.5"
+	}
+}

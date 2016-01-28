@@ -1,0 +1,13 @@
+<Page 
+	xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded"
+	ios:actionBarHidden="true"
+	>
+	<Page.actionBar>
+		 <ActionBar android:title="Android" ios:title="iOS" />
+	</Page.actionBar>
+  <StackLayout>
+  	<Button text="Tap me" tap="{{onTap}}" />
+    <Label text="{{labelText}}" horizontalAlignment="center" />
+
+  </StackLayout>
+</Page>
