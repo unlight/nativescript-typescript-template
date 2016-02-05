@@ -6,6 +6,8 @@ HOW TO START
 4. `sigh -w`
 5. `tns livesync android --watch`
 
+Navigate to your `/platforms/android/src/main` and copy the `AndroidManifest.xml` file to your `/src/App_Resources/Android` folder.
+
 UNIT TESTS
 ----------
 ```
