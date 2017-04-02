@@ -1,5 +1,7 @@
 HOW TO START
 ------------
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/unlight/nativescript-typescript-template.svg)](https://greenkeeper.io/)
 1. [Install NativeScript](https://docs.nativescript.org/start/quick-setup)
 2. `git clone https://github.com/unlight/nativescript-typescript-template.git`
 3. `tns install`
